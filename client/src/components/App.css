@@ -1,0 +1,103 @@
+.overall{
+    background-color: rgb(97, 132, 137) !important;
+    margin-top: 30px;
+    margin: 30px 0px;
+}
+.form{
+    color: rgb(43, 192, 105);
+    font-size: 20px;
+    
+}
+.hp{
+    color: orange;
+}
+.down{
+    color: rgb(255, 255, 255);
+    height: 35px;
+    border-radius: 10px;
+    display: flex;
+    margin-left: 100px;
+    margin-top: -40px;
+    padding-top: 2px;
+    background-color:lightpink;
+
+}
+.edit{
+    color: rgb(239, 250, 250);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 35px;
+    border-radius:10px ;
+    margin-left: 180px;
+    background-color: rgb(111, 14, 14);
+    width: 85px;
+
+    
+}
+.img
+{
+    color: blueviolet;
+    font-size: 25px;
+}
+.hero{
+    margin-left: 0px;
+    margin-bottom: 15px;
+    
+     
+}
+.tes{
+    color: hsl(231, 53%, 52%);
+    font-size: 25px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+    
+}
+element.style {
+    border-left-width: 20px;
+    padding-left: 20px;
+}
+.in{
+    margin-left: 20px;
+    font-size: 20px;
+    width: 200;
+
+    
+}
+.edit-button{
+    margin-left: 20px;
+}
+.download-button2{
+    margin-left: 20px;
+}
+.file2{
+    margin-left: 20px;
+}
+.btnsave2{
+    margin-top: 20px;
+}
+.btnsave3{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.form-group{
+    color: rgb(232, 158, 21);
+}
+.card-text{
+    color: rgb(221, 66, 10);
+}
+.img2{
+    color: rgba(218, 16, 211, 0.932);
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.fil4{
+    color: rgb(28, 165, 65);
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.card-title{
+    color: rgb(18, 171, 237);
+}
+.imgmove3{
+    width: 250px;
+    height: 250px;
+    margin-left: 50px;
+}
